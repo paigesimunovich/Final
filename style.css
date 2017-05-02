@@ -1,0 +1,47 @@
+#nav {
+  width: 90%;
+  height: 70px;
+  position: fixed;
+  top: 0;
+  font-size: 12px;
+  font-weight: 600;
+  padding-left: 230px;
+  background-color: white;
+
+}
+
+li {
+  display: inline;
+  padding: 20px 10px 0px 10px;
+}
+
+h2 {
+  text-align: center
+}
+h6 {
+  padding-top: 70px;
+}
+
+h2 {
+  font-weight: 500;
+}
+
+blockquote {
+  font-size:250%;
+  font-style:bold;
+}
+
+#author {
+  padding-top: 40px;
+}
+
+#finalquestion {
+  padding-top: 60px;
+}
+
+#blog {
+  font-weight: 700;
+  font-size: 50;
+  padding-top: 30px;
+}
+
